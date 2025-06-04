@@ -6,7 +6,7 @@ Soy estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes**: Python (intermedio), SQL (intermedio), R (básico), C (básico), MongoDB (básico).
-- **Análisis y visualización**: Excel (intermedio), PowerBi (intermedio), paquete Office (intermedio).
+- **Análisis y visualización**: Excel (intermedio), PowerBI (intermedio), paquete Office (intermedio).
 
 ## 🚀 Proyectos
 
