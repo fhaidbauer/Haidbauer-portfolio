@@ -2,7 +2,7 @@
 
 ¡Hola! Mi nombre es **Francisco Haidbauer**, tengo 26 años y resido en CABA, Argentina.
 
-Soy estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** del Instituto Tecnológico Empresarial Argentino (ISTEA) y actualmente trabajo como **Data Analyst en IQVIA**, empresa líder en tecnología de información de salud e investigaciones clínicas, donde principalmente desarrollo tareas como análisis de datos con Excel y Python, creación de dashboards en PowerBI, queries en SQL y soporte a clientes, incluyendo creación y seguimiento de tickets en SalesForce, armado de presupuestos y antención diaria.
+Soy estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** del Instituto Tecnológico Empresarial Argentino (ISTEA) y actualmente trabajo como **Data Analyst en IQVIA**, empresa líder en tecnología de información de salud e investigaciones clínicas, donde principalmente desarrollo tareas como análisis de datos con Excel y Python, creación de dashboards en PowerBI, queries en SQL y soporte a clientes, incluyendo creación y seguimiento de tickets en SalesForce, armado de presupuestos y atención diaria.
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes**: Python (intermedio), SQL (intermedio), R (básico), C (básico), MongoDB (básico).
