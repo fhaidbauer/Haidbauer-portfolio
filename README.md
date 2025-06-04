@@ -15,7 +15,7 @@ Se modeló un negocio de instrumentos de medición, que se encarga tanto de la v
 
 
 
-### 📈[Proyecto Power BI – Classic Models LTDA](./Proyecto%20PoweBI%20-%20Classis%20Models%20LTDA)
+### 📈[Proyecto Power BI – Classic Models LTDA](./Proyecto%20PowerBI%20-%20Classic%20Models%20LTDA)
 A partir de varios archivos CSV, tales como detalles de ordenes, productos, empleados, étc, de una empresa de autos clásicos a escala, se realizó una limpieza y combinación de consultas a través de **Power Query**, se definieron distintas métricas y KPIs clave a través del lenguaje **DAX** , se diseñó un dashboard en **PowerBI** y se generaron insights para un mejor análisis del negocio y puntos de mejora.
 
 ## 📫 Contacto
