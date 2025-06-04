@@ -10,10 +10,12 @@ Soy estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial
 
 ## 🚀 Proyectos
 
-### 📊 Proyecto SQL - negocio instrumentos de medición: 
-Se modeló un negocio de instrumentos de medición, que se encarga tanto de la venta como de la calibración de equipos. Se realizó diagramas de entidad-relación, descripción de tablas, base de datos relacional a través de **MySQL**, reportes a través de **PowerBI** y exportación y análisis de datos con **Excel**.
+### 📊 [Proyecto SQL - Negocio Instrumentos de Medición](./Proyecto%20SQL%20-%20negocio%20instrumentos%20de%20medición)
+Se modeló un negocio de instrumentos de medición, que se encarga tanto de la venta como de la calibración de equipos. Se realizó diagramas de entidad-relación, una descripción de las tablas y los campos, se creó una base de datos relacional a través de **MySQL**, se hicieron reportes a través de **PowerBI** y exportación y análisis de datos con **Excel**.
 
-### 📈 Proyecto PowerBI - Classic Models LTDA: 
+
+
+### 📈[Proyecto Power BI – Classic Models LTDA](./Proyecto%20PoweBI%20-%20Classis%20Models%20LTDA)
 A partir de varios archivos CSV, tales como detalles de ordenes, productos, empleados, étc, de una empresa de autos clásicos a escala, se realizó una limpieza y combinación de consultas a través de **Power Query**, se definieron distintas métricas y KPIs clave a través del lenguaje **DAX** , se diseñó un dashboard en **PowerBI** y se generaron insights para un mejor análisis del negocio y puntos de mejora.
 
 ## 📫 Contacto
