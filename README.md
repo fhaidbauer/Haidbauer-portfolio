@@ -19,7 +19,7 @@ Se modeló un negocio de instrumentos de medición, que se encarga tanto de la v
 A partir de varios archivos CSV, tales como detalles de ordenes, productos, empleados, étc, de una empresa de autos clásicos a escala, se realizó una limpieza y combinación de consultas a través de **Power Query**, se definieron distintas métricas y KPIs clave a través del lenguaje **DAX** , se diseñó un dashboard en **PowerBI** y se generaron insights para un mejor análisis del negocio y puntos de mejora.
 
 <p align="center">
-  <img src="./Proyecto%20PowerBI%20-%20Classis%20Models%20LTDA/classic%20models.png" width="700" alt="Dashboard Power BI - Classic Models">
+  <img src="./Proyecto%20PowerBI%20-%20Classic%20Models%20LTDA/classic%20models.png" width="500" alt="Dashboard Power BI - Classic Models">
 </p>
 
 ## 📫 Contacto
