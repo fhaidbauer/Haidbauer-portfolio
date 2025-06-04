@@ -8,13 +8,13 @@ la variable que miden, sean estas temperatura, humedad, presión, étc. Tanto lo
 una con su detalle.
 
 <p align="center">
-  <img src="./Proyecto%20SQL%20-%20negocio%20instrumentos%20de%20medición/imgs/diagrama%20E-R%20tu%20medicion.png" width="500" alt="Dashboard Power BI - Classic Models">
+  <img src="./imgs/diagrama%20E-R%20tu%20medicion.png" width="500" alt="diagramaER">
 </p>
 
 Como parte también del modelado, se fue realizando una descripción de cada tabla, con el detalle de los campos involucrados en cada una.
 
 <p align="center">
-  <img src="./Proyecto%20SQL%20-%20negocio%20instrumentos%20de%20medición/imgs/tabla_1.png" width="500" alt="tabla_1_SQL">
+  <img src="./imgs/tabla_1.png" width="500" alt="tabla_1_SQL">
 </p>
 
 Una vez definido el código SQL utilizado para la creación de la base de datos relacional, se realizó una breve descripción de las vistas (views), funciones (functions), procedimientos (stored procedures) y
@@ -46,6 +46,6 @@ llamada registros, para llevar un historial desde que se implementa la nueva bas
 Finalmente, se realizaron reportes a partir de los datos, para facilitar el análsis y la toma de decisiones.
 
 <p align="center">
-  <img src="./Proyecto%20SQL%20-%20negocio%20instrumentos%20de%20medición/imgs/compra_venta.png" width="500" alt="compraventa">
-  <img src="./Proyecto%20SQL%20-%20negocio%20instrumentos%20de%20medición/imgs/stock.png" width="500" alt="stock">
+  <img src="./imgs/compra_venta.png" width="500" alt="compraventa">
+  <img src="./imgs/stock.png" width="500" alt="stock">
 </p>
