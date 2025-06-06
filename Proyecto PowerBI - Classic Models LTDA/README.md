@@ -52,7 +52,3 @@ Se incluyen visualizacion interactivas que permiten analizar:
 <p align="center">
   <img src="./imgs/dashboards.png" width="600" alt="kpis">
 </p>
-
-## Notas
-- Todo lo realizado es con fines educativos
-- Los datos y proyecciones utilizadas son ficticios
