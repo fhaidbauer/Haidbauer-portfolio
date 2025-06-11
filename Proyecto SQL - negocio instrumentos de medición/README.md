@@ -1,11 +1,6 @@
 ## NEGOCIO INSTRUMENTOS DE MEDICIÓN
 
-Se modeló un negocio de instrumentos de medición, nombre de fantasía “Tu Medición”, que se encarga tanto de la venta como de la
-calibración de equipos. Esta posee una lista de empleados con dos categorías, comercial y técnico, que se encargan tanto de las ventas
-como las calibraciones, respectivamente. Los instrumentos trabajados en el lugar tienen asignado un registro para diferenciarlos respecto de
-la variable que miden, sean estas temperatura, humedad, presión, étc. Tanto los proveedores como los clientes, disponen de códigos
-únicos para poder registrarlos y tener su información a mano. Como todo negocio, se lleva un registro de las transacciones realizadas, cada
-una con su detalle.
+Se modeló un negocio de instrumentos de medición que se encarga tanto de la venta como de la calibración de equipos. Esta posee una lista de empleados con dos categorías, comercial y técnico, que se encargan tanto de las ventas como las calibraciones, respectivamente. Los instrumentos trabajados en el lugar tienen asignado un registro para diferenciarlos respecto de la variable que miden, sean estas temperatura, humedad, presión, étc. Tanto los proveedores como los clientes, disponen de códigos únicos para poder registrarlos y tener su información a mano. Como todo negocio, se lleva un registro de las transacciones realizadas, cada una con su detalle.
 
 <p align="center">
   <img src="./imgs/diagrama%20E-R%20tu%20medicion.png" width="500" alt="diagramaER">
