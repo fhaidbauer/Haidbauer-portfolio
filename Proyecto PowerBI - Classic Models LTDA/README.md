@@ -42,7 +42,7 @@ Mediante el lenguaje **DAX**, se calcularon e insertaron KPIs claves, que ayudan
 </p>
 
 ## Visualización
-Se incluyen visualizacion interactivas que permiten analizar:
+Se incluyen visualizaciones interactivas que permiten analizar:
 
 - Ganancia por categoría de producto
 - Margen por cliente
