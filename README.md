@@ -21,7 +21,7 @@ A partir de varios archivos CSV, tales como detalles de ordenes, productos, empl
 
 ### 🤖 [Proyecto Machine Learning con Python - Behavioural Data](./Proyecto%20Machine%20Learning%20con%20Python%20-%20Behavioural%20Data)
 
-Se realizó el análisis de patrones de comportamiento para clasificar como personalida extrovertida o introvertida a partir de un dataset que contenía variables como tiempo a solas, asistencia a eventos sociales, cantidad de amistades íntimas, étc. Se utilizaron cuatro modelos de aprendizaje supervisado, **SVM**, **Logistic Regression**, **Random Forest Classifier** y **K-Nearest Neighbors Classifier** y se comprobó el rendimiento de cada uno a partir de la métrica *accuracy*. Finalmente, se comparó los resultados predichos con los reales a través de una matriz de confusión.
+Se realizó el análisis de patrones de comportamiento para clasificar como personalidad extrovertida o introvertida, a partir de un dataset que contenía variables como tiempo a solas, asistencia a eventos sociales, cantidad de amistades íntimas, étc. Se utilizaron cuatro modelos de aprendizaje supervisado, **SVM**, **Logistic Regression**, **Random Forest Classifier** y **K-Nearest Neighbors Classifier** y se comprobó el rendimiento de cada uno a partir de la métrica *accuracy*. Finalmente, se compararon los resultados predichos con los reales a través de una matriz de confusión.
 
 
 ## 📫 Contacto
