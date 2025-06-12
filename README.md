@@ -15,8 +15,13 @@ Se modeló un negocio de instrumentos de medición, que se encarga tanto de la v
 
 
 
-### 📈[Proyecto Power BI – Classic Models LTDA](./Proyecto%20PowerBI%20-%20Classic%20Models%20LTDA)
+### 📈 [Proyecto Power BI – Classic Models LTDA](./Proyecto%20PowerBI%20-%20Classic%20Models%20LTDA)
 A partir de varios archivos CSV, tales como detalles de ordenes, productos, empleados, étc, de una empresa de autos clásicos a escala, se realizó una limpieza y combinación de consultas a través de **Power Query**, se definieron distintas métricas y KPIs a través del lenguaje **DAX** , se diseñó un dashboard en **PowerBI** y se generaron insights para un mejor análisis del negocio y puntos de mejora.
+
+
+### 🤖 [Proyecto Machine Learning con Python - Behavioural Data](./Proyecto%20Machine%20Learning%20con%20Python%20-%20Behavioural%20Data)
+
+Se realizó el análisis de patrones de comportamiento para clasificar como personalida extrovertida o introvertida a partir de un dataset que contenía variables como tiempo a solas, asistencia a eventos sociales, cantidad de amistades íntimas, étc. Se utilizaron cuatro modelos de aprendizaje supervisado, **SVM**, **Logistic Regression**, **Random Forest Classifier** y **K-Nearest Neighbors Classifier** y se comprobó el rendimiento de cada uno a partir de la métrica *accuracy*. Finalmente, se comparó los resultados predichos con los reales a través de una matriz de confusión.
 
 
 ## 📫 Contacto
