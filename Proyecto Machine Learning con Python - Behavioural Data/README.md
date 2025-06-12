@@ -1,7 +1,7 @@
 # Extrovertidos vs Introvertidos - Datos Sobre Comportamiento Social
 
 ## Descripción General
-El comportamiento humano puede ser caracterizado por muchas variables. Dentro de este proyecto, se analizó el dataset *Extrovert vs. Introvert Personality Traits*, que incluye una colección de datos conductuales y sociales de las personas, capturando indicadores claves de la introversión y extroversión, convirtiéndose en una fuente clave de información para psicólogos, analistas de datos e investigadores que deseen involucrarse en estos estudios.
+El comportamiento humano puede ser caracterizado por muchas variables. Dentro de este proyecto, se analizó el dataset *Extrovert vs. Introvert Personality Traits*, que incluye una colección de datos conductuales y sociales de las personas, capturando indicadores claves de la introversión y extroversión, convirtiéndose en una fuente de información para psicólogos, analistas de datos e investigadores que deseen involucrarse en estos estudios.
 
 ## Contexto
 Rasgos de la personalidad como introversión y extroversión estructuran la forma en que interactuamos socialmente. Para poder definir a una persona y predecir su carácter, se midieron ciertas variables:
