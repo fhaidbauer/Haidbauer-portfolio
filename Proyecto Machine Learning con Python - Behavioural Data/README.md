@@ -11,7 +11,7 @@ Rasgos de la personalidad como introversión y extroversión estructuran la form
 - `Social_event_attendance`: frecuencia con la que atiende eventos sociales (0-10).
 - `Going_outside`: frecuencia con la que sale de casa (0-7).
 - `Drained_after_socializing`: agotamiento luego de socializar (Yes/No).
-- `Friends_circe_size`: cantidad de amigos cercanos autorreportados (0-15).
+- `Friends_circle_size`: cantidad de amigos cercanos autorreportados (0-15).
 - `Post_frequency`: frecuencia de posteo en redes sociales (0-10).
 - `Personality`: variable objetivo (Extrovertido/Introvertido).
 
