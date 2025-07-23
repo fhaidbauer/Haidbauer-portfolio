@@ -26,7 +26,7 @@ Se realizó el análisis de patrones de comportamiento para clasificar como pers
 
 ### 🧮 [Proyecto Regresión con Python - Precio de Propiedades](./Proyecto%20Regresión%20con%20Python%20-%20Precio%20inmobiliarios)
 
-Se realizó el análisis de las variables que componen una propiedad, tales como la cantidad de baños, habitaciones, metros cuadras, antigüedad, étc, para la predicción del precio de nuevos inmobiliarios. Se aplicaron tres modelos de regresión, **Regresión Lineal**, **Random Forest Regressor** y **XGBoost Regressor**, y se chequeó el rendimiento de cada uno a partir del error absoluto medio y el error cuadrático medio. A partir de un scatter plot, se graficaron los resultados predichos vs los reales.
+Se realizó el análisis de las variables que componen una propiedad, tales como la cantidad de baños, habitaciones, metros cuadrados, antigüedad, étc, para la predicción del precio de nuevos inmobiliarios. Se aplicaron tres modelos de regresión, **Regresión Lineal**, **Random Forest Regressor** y **XGBoost Regressor**, y se chequeó el rendimiento de cada uno a partir del error absoluto medio y el error cuadrático medio. A partir de un scatter plot, se graficaron los resultados predichos vs los reales.
 
 
 ## 📫 Contacto
