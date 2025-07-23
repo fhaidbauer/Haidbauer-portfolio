@@ -40,9 +40,11 @@ Se grafican los puntos de cada predicción vs los reales, para ver que tan acert
 
 ## Conclusiones
 
-Linear Regression -> MAE:7657.77, MSE:94355212.83
-Random Forest Regressor -> MAE:15288.48, MSE:391750142.86
-XGBoost Regressor -> MAE:14562.75, MSE:325534384.68
+**Linear Regression** -> MAE:7657.77, MSE:94355212.83
+
+**Random Forest Regressor** -> MAE:15288.48, MSE:391750142.86
+
+**XGBoost Regressor** -> MAE:14562.75, MSE:325534384.68
 
 Al evaluar los errores obtenidos, se llega a la conclusión que el modelo que mejor predice la variable objetivo es el modelo lineal, al tener menor error absoluto y cuadrático. Esto puede deberse a que se trata de un conjunto de datos en la que las variables están relacionadas de una forma lineal y directa con el precio, haciendo
 que un modelo simple generalice eficientemente. Los modelos como Random Forest Classifier y XGBoost son complejos, aplicables a datasets de mayor tamaño y dificultad, y susceptibles a overfitting cuando la cantidad de datos es pequeña.
