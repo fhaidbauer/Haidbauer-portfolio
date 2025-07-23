@@ -24,6 +24,11 @@ A partir de varios archivos CSV, tales como detalles de ordenes, productos, empl
 Se realizó el análisis de patrones de comportamiento para clasificar como personalidad extrovertida o introvertida, a partir de un dataset que contenía variables como tiempo a solas, asistencia a eventos sociales, cantidad de amistades íntimas, étc. Se utilizaron cuatro modelos de aprendizaje supervisado, **SVM**, **Logistic Regression**, **Random Forest Classifier** y **K-Nearest Neighbors Classifier** y se comprobó el rendimiento de cada uno a partir de la métrica *accuracy*. Finalmente, se compararon los resultados predichos con los reales a través de una matriz de confusión.
 
 
+### 🧮 [Proyecto Regresión con Python - Precio de Propiedades](./Proyecto%20Regresión%20con%20Python%20-%20Precio%20inmobiliarios)
+
+Se realizó el análisis de las variables que componen una propiedad, tales como la cantidad de baños, habitaciones, metros cuadras, antigüedad, étc, para la predicción del precio de nuevos inmobiliarios. Se aplicaron tres modelos de regresión, **Regresión Lineal**, **Random Forest Regressor** y **XGBoost Regressor**, y se chequeó el rendimiento de cada uno a partir del error absoluto medio y el error cuadrático medio. A partir de un scatter plot, se graficaron los resultados predichos vs los reales.
+
+
 ## 📫 Contacto
 - 📧 Email: franhaidbauer@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/francisco-haidbauer-52b221170/
