@@ -46,13 +46,13 @@ Se realiza un boxplot de cada variable, para inspección de outliers.
 Se grafica la matriz de correlación, con ella se puede ver la relación que tiene cada variable con otra.
 
 <p align="center">
-  <img src="./imgs/corr.png" width="300" height="250" alt="box">
+  <img src="./imgs/corr.png" width="400" height="350" alt="box">
 </p>
 
 Se eligen las variables de entrenamiento y objetivo, y se escalan.
 
 <p align="center">
-  <img src="./imgs/escalado.png" width="450" height="350" alt="models">
+  <img src="./imgs/escalado.png" width="450" height="450" alt="models">
 </p>
 
 Se separa en entrenamiento y testeo, se definen los modelos, se entrenan y luego se imprimen los valores de error absoluto medio y error cuadrático medio de cada uno.
