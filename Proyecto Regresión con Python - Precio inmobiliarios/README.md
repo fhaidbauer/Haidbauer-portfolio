@@ -26,17 +26,46 @@ Para el desarrollo y predicción de la variable objetivo, es utilizaron tres mod
 
 Se importan las librerías necesarias y se cargan los datos.
 
+<p align="center">
+  <img src="./imgs/lib.png" width="400" alt="libs">
+</p>
+
 Se ve la información del dataframe y se realiza un chequeo de valores nulos.
+
+<p align="center">
+  <img src="./imgs/info.png" width="300" height="300" alt="info">
+  <img src="./imgs/nulos.png" width="400" height ="300" alt="nulls">
+</p>
 
 Se realiza un boxplot de cada variable, para inspección de outliers.
 
+<p align="center">
+  <img src="./imgs/boxplot.png" width="400" height="300" alt="box">
+</p>
+
 Se grafica la matriz de correlación, con ella se puede ver la relación que tiene cada variable con otra.
+
+<p align="center">
+  <img src="./imgs/corr.png" width="300" height="250" alt="box">
+</p>
 
 Se eligen las variables de entrenamiento y objetivo, y se escalan.
 
+<p align="center">
+  <img src="./imgs/escalado.png" width="450" height="350" alt="models">
+</p>
+
 Se separa en entrenamiento y testeo, se definen los modelos, se entrenan y luego se imprimen los valores de error absoluto medio y error cuadrático medio de cada uno.
 
+<p align="center">
+  <img src="./imgs/models.png" width="450" height="350" alt="models">
+</p>
+
 Se grafican los puntos de cada predicción vs los reales, para ver que tan acertado está cada modelo.
+
+<p align="center">
+  <img src="./imgs/comparacion.png" width="500" height="400" alt="models">
+</p>
 
 ## Conclusiones
 
