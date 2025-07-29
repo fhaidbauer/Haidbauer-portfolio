@@ -51,7 +51,7 @@ Se grafica la matriz de correlación, con ella se puede ver la relación que tie
 Se eligen las variables de entrenamiento y objetivo, y se escalan.
 
 <p align="center">
-  <img src="./imgs/escalado_reg.png" width="450" height="450" alt="models">
+  <img src="./imgs/escalado_reg.png" width="450" height="450" alt="scale">
 </p>
 
 Se separa en entrenamiento y testeo, se definen los modelos, se entrenan y luego se imprimen los valores de error absoluto medio y error cuadrático medio de cada uno.
