@@ -33,7 +33,6 @@ Se importan las librerías necesarias y se cargan los datos.
 Se ve la información del dataframe y se realiza un chequeo de valores nulos.
 
 <p align="center">
-  <img src="./imgs/info.png" width="300" height="300" alt="info">
   <img src="./imgs/nulos.png" width="400" height ="300" alt="nulls">
 </p>
 
