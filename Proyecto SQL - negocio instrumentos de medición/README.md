@@ -42,5 +42,5 @@ Finalmente, se realizaron reportes a partir de los datos, para facilitar el aná
 
 <p align="center">
   <img src="./imgs/compra_venta.png" width="500" alt="compraventa">
-  <img src="./imgs/stock.png" width="500" alt="stock">
+  <img src="./imgs/stock_sql.png" width="500" alt="stock">
 </p>
