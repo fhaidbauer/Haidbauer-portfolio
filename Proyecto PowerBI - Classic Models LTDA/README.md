@@ -19,7 +19,7 @@ Se utilizaron cinco conjuntos de datos en formato `.csv` para el proyecto:
 En un primer análisis, mediante **Power Query**, se combinaron las tablas por distintas claves relacionales, resultando en la tabla *ventas* que contenía toda la información sustancial para el proyecto.
 
 <p align="center">
-  <img src="./imgs/tablas.png" width="250" alt="tables">
+  <img src="./imgs/tablas_classic.png" width="250" alt="tables">
 </p>
 
 - Se ocultaron las tablas originales para evitar mostrar campos innecesarios.
