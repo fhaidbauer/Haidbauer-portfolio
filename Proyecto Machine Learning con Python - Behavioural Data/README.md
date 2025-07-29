@@ -29,44 +29,44 @@ Para analizar y predecir la variable objetivo, se utilizaron cuatro modelos de M
 Se realiza la importación de las librerías necesarias y se carga el conjunto de datos.
 
 <p align="center">
-  <img src="./imgs/lib.png" width="400" alt="libs">
-  <img src="./imgs/set.png" width="450" alt="data">
+  <img src="./imgs/lib_mach.png" width="400" alt="libs">
+  <img src="./imgs/set_mach.png" width="450" alt="data">
 </p>
 
 Se chequea la cantidad de valores nulos o vacíos. Las columnas númericas con nulos se rellenan con la mediana de cada una y se quitan del análisis aquellos registros que poseen nulos en las columnas categóricas.
 
 <p align="center">
-  <img src="./imgs/nulos.png" width="400" alt="nulls">
+  <img src="./imgs/nulos_mach.png" width="400" alt="nulls">
 </p>
 
 Se reemplazan los valores *Yes/No* por 1 y 0, respectivamente. Se define la variable objetivo, se quita del dataset inicial y se factoriza, para la comprensión de los modelos a utilizar.
 
 <p align="center">
-  <img src="./imgs/target.png" width="500" alt="obj">
+  <img src="./imgs/target_mach.png" width="500" alt="obj">
 </p>
 
 Se realiza un boxplot de cada columna, para una exploración visual de los datos.
 
 <p align="center">
-  <img src="./imgs/boxplot.png" width="400" alt="plot">
+  <img src="./imgs/boxplot_mach.png" width="400" alt="plot">
 </p>
 
 Escalado de datos y separación en entrenamiento y testeo. Para la división, se tomaron los parámetros por default de la función *train_test_split*.
 
 <p align="center">
-  <img src="./imgs/escalado.png" width="500" alt="scaler">
+  <img src="./imgs/escalado_mach.png" width="500" alt="scaler">
 </p>
 
 Se definen los modelos y se entrenan. Se imprimen los valores de *accuracy*.
 
 <p align="center">
-  <img src="./imgs/modelos.png" width="500" alt="scaler">
+  <img src="./imgs/modelos_mach.png" width="500" alt="scaler">
 </p>
 
 Se plotean las matrices de confusión. Esta evalúa el rendimiento de los modelos, mostrando los casos correctamente clasificados (diagonal principal) y los incorrectamente clasificados.
 
 <p align="center">
-  <img src="./imgs/matriz.png" width="500" alt="scaler">
+  <img src="./imgs/matriz_mach.png" width="500" alt="scaler">
 </p>
 
 ## Conclusiones
@@ -74,7 +74,7 @@ Se plotean las matrices de confusión. Esta evalúa el rendimiento de los modelo
 Los cuatro modelos de clasificación obtuvieron un *accuracy* mayor al 93%, lo que indica que dividen por clase de manera fiable, y pueden utilizarse para predicciones de este estilo. Cabe destacar que se trata de un dataset con pocos registros y sin outliers, lo que permite una adaptación a la mayoría de modelos, sin presentar mayores dificultades en el entrenamiento y la obtención de buenas métricas de rendimiento.
 
 <p align="center">
-  <img src="./imgs/accuracy.png" width="400" alt="scaler">
+  <img src="./imgs/accuracy_mach.png" width="400" alt="scaler">
 </p>
 
 
