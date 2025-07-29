@@ -45,7 +45,7 @@ Se realiza un boxplot de cada variable, para inspección de outliers.
 Se grafica la matriz de correlación, con ella se puede ver la relación que tiene cada variable con otra.
 
 <p align="center">
-  <img src="./imgs/corr_reg.png" width="400" height="350" alt="box">
+  <img src="./imgs/corr_reg.png" width="400" height="350" alt="corr">
 </p>
 
 Se eligen las variables de entrenamiento y objetivo, y se escalan.
@@ -63,7 +63,7 @@ Se separa en entrenamiento y testeo, se definen los modelos, se entrenan y luego
 Se grafican los puntos de cada predicción vs los reales, para ver que tan acertado está cada modelo.
 
 <p align="center">
-  <img src="./imgs/comparacion_regr.png" width="500" height="400" alt="models">
+  <img src="./imgs/comparacion_regr.png" width="500" height="400" alt="comp">
 </p>
 
 ## Conclusiones
